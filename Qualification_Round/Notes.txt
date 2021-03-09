@@ -1,0 +1,22 @@
+Saving the Universe Again:
+
+	Dif: Very Easy / Easy
+
+Trouble Sort:
+
+	Dif: Medium
+
+	While the idea to solve test 2 is quite easy I had a hard time figuring it.
+
+Go, Gopher!
+
+	Dif: Easy
+
+Cubic UFO:
+
+	Dif: Medium 
+	
+	Was a mathematic problem, the programming part has 0 difficult. 
+	Calculated on paper the area of the cube when rotating it 45 degrees parallel to the given plane and then theta degrees around de OX axis.
+	At the end you just need to calculate the z-coordinate of 2 vertex and apply a dicotomic algorithm to find the value of theta. Then just
+	rotate 3 center-of-faces points.
